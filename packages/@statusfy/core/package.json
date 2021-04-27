@@ -47,7 +47,7 @@
     "cors": "2.8.5",
     "cross-env": "7.0.0",
     "cross-spawn": "7.0.1",
-    "css-loader": "3.4.2",
+    "css-loader": "5.0.0",
     "dayjs": "1.8.19",
     "dot-prop": "5.2.0",
     "express": "4.17.1",
